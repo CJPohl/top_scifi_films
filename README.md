@@ -1,15 +1,14 @@
-# WIP
+# Representing IMDB's Science-Fiction Films by Popularity
 
 ## Purpose
--text-
+To scrape and aggregate all of the sci-fi films listed on the IMDB website onto a CSV,
+clean the data thoroughly, and visualize the data using Jupyter.
 
-## Features
-- Functioning IMD web scraper
+## Contents
+- Functioning IMBD web scraper
 - Write to CSV using pandas
--more text-
-
-## Analytics
--even more text-
+- Pandas DataFrame cleanup
+- Visualization to provide big picture context for analysis
 
 ## Reflection
 -wall of text-
